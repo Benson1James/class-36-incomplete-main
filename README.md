@@ -1,1 +1,2 @@
-# class-36-incomplete-main
+# synchronousBallMovement
+Ball moving synchronously
